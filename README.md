@@ -11,5 +11,6 @@ FOLD-R++ -> https://arxiv.org/abs/2110.07843
 
 FOLD-RM -> https://arxiv.org/abs/2202.06913
 
-Note: The datasets used in this project are displayed on a separate repository for organization purposes. To have access to the data, visit the following repository:
+Note: 
+The datasets used in this project are displayed on a separate repository for organization purposes. To have access to the data, visit the following repository:
 https://github.com/maybepueblo/FOLD-family-data
