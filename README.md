@@ -1,7 +1,7 @@
 # FOLD-Family
 Repository dedicated towards explaining how to replicate the usage of the FOLD family of algorithms.
 
-Thanks to the original autors for providing tips and their respective researches.
+Thanks to the original authors for providing tips and their respective researches.
 
 To learn more about the original works made about the FOLD family, visit the following pages:
 
